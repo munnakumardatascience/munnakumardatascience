@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Munna Kumar
-- 👀 I’m interested in Data Science or Data Analyst 
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Science or Data Analyst job
+- 🌱 I Completed my Data Science Course.
 - 💞️ I’m looking to collaborate on ML/ DL/ AI/ Generative AI/ NLP/ Power-BI Projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
