@@ -1,6 +1,6 @@
 -  Hi, I’m Munna Kumar
--  I’m interested in Data Science & Data Analyst
--  I have done my B.tech in Computer Science with Data Science
+-  I’m interested in Data Science & Data Analyst role 
+-  I have completed my B.tech in Data Science from RKDF University,Bhopal
 -  I’m looking to collaborate on ML/ DL/ AI/ Generative AI/ NLP/ Power-BI Projects.
 - 📫 How to reach me ...
  
